@@ -9,3 +9,4 @@ A list of some of the features the project currently has are:
 - Admin panel which allows you to manage and delete users.
 - An artisan command to view all roles (php artisan list:roles)
 - User search
+- Restricted routes for authenticated users and administrators.
